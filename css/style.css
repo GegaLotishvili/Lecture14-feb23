@@ -1,0 +1,13 @@
+h2 {
+    color: red;
+}
+.card {
+    width: 400px;
+    border: none;
+}
+.navbar {
+    background-color: purple;
+}
+.mycontainer {
+    border: 1px solid black;
+}
